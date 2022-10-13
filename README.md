@@ -14,10 +14,9 @@
  
  <br>
  
-  ### Aqui estão as minhas redes abaixo para contato!
+  ### Aqui está a minha rede para contato!
  
 <div>
-  <a href = "mailto:neytanbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-fernandes-04957b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Neytan/N3ytan/blob/output/github-contribution-grid-snake.svg)
