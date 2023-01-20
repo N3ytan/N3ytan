@@ -1,5 +1,22 @@
 ## Welcome to my profile 😁
 
+<!--
+❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
+🔗 • https://github.com/antonkomarev/github-profile-views-counter
+🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
+🔗 • https://github.com/Ashutosh00710/github-readme-activity-graph
+🔗 • https://github.com/anuraghazra/github-readme-stats
+🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
+🔗 • https://profilepicturemaker.com
+🔗 • https://devicon.dev
+🔗 • https://shields.io
+🔗 • https://giphy.com
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
+-->
+
  <div>
    <a href="https://github.com/N3ytan">
    <img height="180em" src="https://github-readme-stats-psi-rouge-69.vercel.app/api?username=N3ytan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
