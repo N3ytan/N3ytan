@@ -17,6 +17,9 @@
 🔗 • https://getemoji.com
 -->
 
+<img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=ee3d3d" alt="Juletopi-profileviews"><div>
+<br>
+
  <div>
    <a href="https://github.com/N3ytan">
    <img height="180em" src="https://github-readme-stats-psi-rouge-69.vercel.app/api?username=N3ytan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
